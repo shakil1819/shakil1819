@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Blockchain based projects
 - 📫 reach me at : shakilmrf8@gmail.com
 - 🔰 My portfolio website link : https://shakil-mosharrof-xcadet-bcc.netlify.app/
-- 🎋 My Resume link: ![Link](https://drive.google.com/file/d/1m9hPngpq7ALb46zMkCvGRSnilgPiaDBI/view?usp=sharing)
+- 🎋 My Resume link: ![Google drive Link](https://drive.google.com/file/d/1m9hPngpq7ALb46zMkCvGRSnilgPiaDBI/view?usp=sharing)
 
 <!---
 shakil1819/shakil1819 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
