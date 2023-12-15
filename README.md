@@ -4,6 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- **shakil1819/shakil1819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="320" />
+</p>
 
   <h1>
     <a href="https://git.io/typing-svg">
@@ -87,11 +90,12 @@ You can click the Preview link to take a look at your changes.
       If user is using dark mode, use the dark mode theme for the stats card.
       Else, use the default theme for the stats card.
     -->
+    <p align="center">
     <a href="https://github.com/shakil1819#gh-dark-mode-only"><img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=shakil1819&amp;theme=dark&amp;show_icons=true&amp;include_all_commits=true&amp;show=discussions_answered#gh-dark-mode-only" alt="Melvin&#39;s GitHub stats - Dark"></a>
     <a href="https://github.com/shakil1819#gh-light-mode-only"><img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=shakil1819&amp;theme=default&amp;show_icons=true&amp;include_all_commits=true&amp;show=discussions_answered#gh-light-mode-only" alt="Melvin&#39;s GitHub stats - Light"></a>   
     <br/>
     <br/>
-    
+    </p>
   </div>
 </div>
 
