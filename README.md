@@ -15,7 +15,23 @@ You can click the Preview link to take a look at your changes.
     </a>
   </h1>
 
-
+<div>
+  <h2>🌐 My Personal Website / Additional links:</h2>
+  <br/>
+  <div>
+    <!-- 
+      target="_blank" does not work for GitHub's README.md 
+    -->
+    <a href="https://shakil-mosharrof-xcadet-bcc.netlify.app/"><img src="https://img.shields.io/badge/Personal Site-02569B?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://stackoverflow.com/users/12626071/shakil1819"><img src="https://img.shields.io/badge/Stackoverflow-F15B2A?style=for-the-badge&logo=Stackoverflow&logoColor=white" /></a>
+    <a href="https://tryhackme.com/p/leos"><img src="https://img.shields.io/badge/tryhackme-FA5C5C?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/shakil-mosharrof/"><img src="https://img.shields.io/badge/Linkedin-FFDD00?style=for-the-badge&logo=Linkedin&logoColor=black" /></a> 
+    <a href="https://askubuntu.com/users/1062388/shakil1819"><img src="https://img.shields.io/badge/AskUbuntu-F15B2A?style=for-the-badge&logo=Stackoverflow&logoColor=white" /></a>
+    <a href="shakilmrf8@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFDD00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+    <a href="https://drive.google.com/file/d/1IPQrB7Hpco0OBDC5FeYDMaPvJsiN7kTg/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FFDD00?style=for-the-badge&logo=Probot&logoColor=black" /></a>
+    
+  </div>
+</div>
 
 <div>
   <h2>
@@ -67,23 +83,7 @@ You can click the Preview link to take a look at your changes.
   </div>
 </div>
 
-<div>
-  <h2>🌐 My Personal Website / Additional links:</h2>
-  <br/>
-  <div>
-    <!-- 
-      target="_blank" does not work for GitHub's README.md 
-    -->
-    <a href="https://shakil-mosharrof-xcadet-bcc.netlify.app/"><img src="https://img.shields.io/badge/Personal Site-02569B?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://stackoverflow.com/users/12626071/shakil1819"><img src="https://img.shields.io/badge/Stackoverflow-F15B2A?style=for-the-badge&logo=Stackoverflow&logoColor=white" /></a>
-    <a href="https://tryhackme.com/p/leos"><img src="https://img.shields.io/badge/tryhackme-FA5C5C?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/shakil-mosharrof/"><img src="https://img.shields.io/badge/Linkedin-FFDD00?style=for-the-badge&logo=Linkedin&logoColor=black" /></a> 
-    <a href="https://askubuntu.com/users/1062388/shakil1819"><img src="https://img.shields.io/badge/AskUbuntu-F15B2A?style=for-the-badge&logo=Stackoverflow&logoColor=white" /></a>
-    <a href="shakilmrf8@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFDD00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-    <a href="https://drive.google.com/file/d/1IPQrB7Hpco0OBDC5FeYDMaPvJsiN7kTg/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FFDD00?style=for-the-badge&logo=Probot&logoColor=black" /></a>
-    
-  </div>
-</div>
+
 <div>
   <h2>📈 My GitHub Stats:</h2>
   <br/>
