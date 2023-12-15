@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=25&duration=2000&pause=1000&color=4EA94B&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Shakil+Mosharrof+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Fresh+Graduate+From+CS+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Cyber+Security+Practitioner%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+a+Researcher+%F0%9F%9A%A9" alt="shakil1819's banner" />
+      <p align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=25&duration=2000&pause=1000&color=4EA94B&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Shakil+Mosharrof+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Fresh+Graduate+From+CS+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Cyber+Security+Practitioner%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+a+Researcher+%F0%9F%9A%A9" alt="shakil1819's banner" /></p>
     </a>
   </h1>
 
@@ -62,6 +63,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Pytorch-262c3e?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/keras-262c3e?style=for-the-badge&logo=keras&logoColor=white" />
     <img src="https://img.shields.io/badge/Tensorflow-262c3e?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arduino-262c3e?style=for-the-badge&logo=Arduino&logoColor=white" />
   </div>
 </div>
 
@@ -110,10 +112,6 @@ Classification. doi: 10.1109/ITMS59786.2023.10317666.</li>
 </div>
 
   </div>
-
-  <p align="center">
-  <img src="https://github.com/shakil1819/shakil1819/assets/58840439/bb6fb7b3-f49a-4c71-9527-5cb354d197fc">
-</p>
 
 
 
