@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   <h1>
     <a href="https://git.io/typing-svg">
       <p align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=25&duration=2000&pause=1000&color=4EA94B&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Shakil+Mosharrof+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Fresh+Graduate+From+CS+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Cyber+Security+Practitioner%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+a+Researcher+%F0%9F%9A%A9" alt="shakil1819's banner" /></p>
+      <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=25&duration=2000&pause=1000&color=4EA94B&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Shakil+Mosharrof+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Fresh+Graduate+From+CS+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Web+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Cyber+Security+Practitioner%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+a+Researcher+%F0%9F%9A%A9" alt="shakil1819's banner" /></p>
     </a>
   </h1>
 
