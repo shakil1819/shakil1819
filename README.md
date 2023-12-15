@@ -93,9 +93,8 @@ You can click the Preview link to take a look at your changes.
     <p align="center">
     <a href="https://github.com/shakil1819#gh-dark-mode-only"><img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=shakil1819&amp;theme=dark&amp;show_icons=true&amp;include_all_commits=true&amp;show=discussions_answered#gh-dark-mode-only" alt="Melvin&#39;s GitHub stats - Dark"></a>
     <a href="https://github.com/shakil1819#gh-light-mode-only"><img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=shakil1819&amp;theme=default&amp;show_icons=true&amp;include_all_commits=true&amp;show=discussions_answered#gh-light-mode-only" alt="Melvin&#39;s GitHub stats - Light"></a>   
-    <br/>
-    <br/>
     </p>
+    <p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=shakil1819></p>
   </div>
 </div>
 
