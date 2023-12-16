@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 <!-- **shakil1819/shakil1819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="320" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF" width="500" height="320" />
+  
 </p>
 
   <h1>
