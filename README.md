@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://tryhackme.com/p/leos"><img src="https://img.shields.io/badge/tryhackme-FA5C5C?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/shakil-mosharrof/"><img src="https://img.shields.io/badge/Linkedin-FFDD00?style=for-the-badge&logo=Linkedin&logoColor=black" /></a> 
     <a href="https://askubuntu.com/users/1062388/shakil1819"><img src="https://img.shields.io/badge/AskUbuntu-F15B2A?style=for-the-badge&logo=Stackoverflow&logoColor=white" /></a>
-    <a href="shakilmrf8@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFDD00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+    <a href="mailto:shakilmrf8@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFDD00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
     <a href="https://raw.githubusercontent.com/shakil1819/Portfolio/1a0c952eae91e62526e5ea12ddb6aeb9eeda6ab8/assets/CV_of_Shakil_Mosharrof-1.pdf"><img src="https://img.shields.io/badge/Resume-FFDD00?style=for-the-badge&logo=Probot&logoColor=black" /></a>
     
   </div>
