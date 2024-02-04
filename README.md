@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF" width="500" height="320" />
-</p> -->
+</p> 
 
   <h1>
     <a href="https://git.io/typing-svg">
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
       <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=25&duration=2000&pause=1000&color=4EA94B&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Shakil+Mosharrof+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Fresh+Graduate+From+CS+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Competitive+Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Cyber+Security+Practitioner%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+a+Researcher+%F0%9F%9A%A9" alt="shakil1819's banner" /></p>
     </a>
   </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 <div>
   <h2>🌐 My Personal Website / Additional links:</h2>
   <br/>
@@ -139,6 +139,15 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+</div>
+
+
+<div>
+<h2>⚡Activity</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakil1819&theme=gruvbox"/>
+ 
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
   <h2>📈 My GitHub Stats:</h2>
   <br/>
@@ -154,15 +163,10 @@ You can click the Preview link to take a look at your changes.
     </p>
     <p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=shakil1819></p> -->
   </div>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2>⚡Activity</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakil1819&theme=gruvbox"/>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <div>
+	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <h2>Research and Publications</h2>
   <ul>
     <li>Ovi, Tareque Bashar, Shakil Mosharrof, Nomaiya Bashree, Md Shofiqul Islam and Muhammad Nazrul Islam. “DeepTriNet: A Tri-Level Attention Based DeepLabv3+ Architecture for Semantic Segmentation of Satellite Images.” ArXiv abs/2310.06848 (2023): n. pag.</li>
