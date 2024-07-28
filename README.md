@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://raw.githubusercontent.com/shakil1819/Portfolio/eff1b9f9f11c792df098241448acf759b5267828/assets/CV_of_Shakil_Mosharrof.pdf"><img src="https://img.shields.io/badge/Resume-FFDD00?style=for-the-badge&logo=Probot&logoColor=black" /></a>
     
   </div>
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
@@ -94,7 +95,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/MAVROS-008C76?style=for-the-badge&logo=ROS&logoColor=white" />
 <br></td>
                                 </tr>
-      <tr>
+<!--       <tr>
                                     <td>App Development</td>
                                     <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white" />
@@ -115,7 +116,16 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Volatility-223B5E?style=for-the-badge&logo=volatility&logoColor=white" />
 <img src="https://img.shields.io/badge/Parrot%20OS-3589F9?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <br></td>
-</tr>
+</tr> -->
+	     <tr>
+                                    <td><strong>DevOps</strong></td>
+                                    <td><strong><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-953DAC?style=for-the-badge&logo=CircleCI&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+</strong><br></td>
+                                </tr>
 <tr>
                                     <td>Other</td>
                                     <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
