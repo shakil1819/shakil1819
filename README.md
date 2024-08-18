@@ -81,7 +81,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 <br></td>
 </tr>
-<tr>
+<!-- <tr>
                                     <td>IOT & Robotics</td>
                                     <td><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry%20PI-C51A4A?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/ROS2-DA242D?style=for-the-badge&logo=ROS&logoColor=white" />
 <img src="https://img.shields.io/badge/MAVROS-008C76?style=for-the-badge&logo=ROS&logoColor=white" />
 <br></td>
-                                </tr>
+                                </tr> -->
 <!--       <tr>
                                     <td>App Development</td>
                                     <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />
@@ -163,6 +163,7 @@ You can click the Preview link to take a look at your changes.
   <br/>
   <div>
 	  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakil1819&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="shakil1819" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shakil1819&theme=gruvbox&hide_border=true" alt="shakil1819" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakil1819&theme=gruvbox" height="180em" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakil1819&theme=gruvbox" height="180em" />
+	  <a href="https://app.daily.dev/janina19"><img src="https://api.daily.dev/devcards/v2/zneMymScEItnv1IRnsyv2.png?type=wide&r=vif" width="652" alt="Shakil Mosharrof's Dev Card"/></a>
     <!-- 
       If user is using dark mode, use the dark mode theme for the stats card.
       Else, use the default theme for the stats card.
@@ -172,11 +173,13 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/shakil1819#gh-light-mode-only"><img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=shakil1819&amp;theme=default&amp;show_icons=true&amp;include_all_commits=true&amp;show=discussions_answered#gh-light-mode-only" alt="Melvin&#39;s GitHub stats - Light"></a>   
     </p>
     <p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=shakil1819></p> -->
+    
   </div>
 
 
   <div>
 	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+	  
   <h2>Research and Publications</h2>
   <ul>
     <li>Ovi, Tareque Bashar, Shakil Mosharrof, Nomaiya Bashree, Md Shofiqul Islam and Muhammad Nazrul Islam. “DeepTriNet: A Tri-Level Attention Based DeepLabv3+ Architecture for Semantic Segmentation of Satellite Images.” ArXiv abs/2310.06848 (2023): n. pag.</li>
