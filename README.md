@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.linkedin.com/in/shakil-mosharrof/"><img src="https://img.shields.io/badge/Linkedin-FFDD00?style=for-the-badge&logo=Linkedin&logoColor=black" /></a> 
     <a href="https://askubuntu.com/users/1062388/shakil1819"><img src="https://img.shields.io/badge/AskUbuntu-F15B2A?style=for-the-badge&logo=Stackoverflow&logoColor=white" /></a>
     <a href="mailto:shakilmrf8@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFDD00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-    <a href="https://raw.githubusercontent.com/shakil1819/Portfolio/eff1b9f9f11c792df098241448acf759b5267828/assets/CV_of_Shakil_Mosharrof.pdf"><img src="https://img.shields.io/badge/Resume-FFDD00?style=for-the-badge&logo=Probot&logoColor=black" /></a>
+    <a href="https://raw.githubusercontent.com/shakil1819/Portfolio/f4c58ec1f4247bd41d0fe849a7ea4bd22356776e/assets/CV_of_Shakil_Mosharrof.pdf"><img src="https://img.shields.io/badge/Resume-FFDD00?style=for-the-badge&logo=Probot&logoColor=black" /></a>
     
   </div>
 
@@ -71,16 +71,40 @@ You can click the Preview link to take a look at your changes.
 			<tr>
                                     <td>Backend</td>
                                     <td><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" /><img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white" />
-<br></td>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pydantic-42b983?style=for-the-badge&logo=Pydantic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Alembic-76a8dd?style=for-the-badge&logo=Alembic&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-cca76b?style=for-the-badge&logo=SQLAlchemy&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASP.NET%20Core-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" />
+        <br></td>
       </tr>
       <tr>
                                     <td>Database</td>
                                     <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-<br></td>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black" />
+<!--         <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> -->
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
+        <br></td>
 </tr>
+	    <tr><td>
+		    AI/ML &amp; NLP
+	    </td>
+		    <td>
+			    <img src="https://img.shields.io/badge/ML%20Metrics-900C3F?style=for-the-badge&amp;logo=machine-learning&amp;logoColor=white">
+                                        <img src="https://img.shields.io/badge/LLMs-581845?style=for-the-badge&amp;logo=machine-learning&amp;logoColor=white">
+                                        <img src="https://img.shields.io/badge/PyTorch-4B0082?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white">
+                                        <img src="https://img.shields.io/badge/Tensorflow-1F618D?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white">
+                                        <img src="https://img.shields.io/badge/GANN-0A3D62?style=for-the-badge&amp;logo=artificial-intelligence&amp;logoColor=white">
+                                        <img src="https://img.shields.io/badge/CNN-117A65?style=for-the-badge&amp;logo=artificial-intelligence&amp;logoColor=white">
+                                        <img src="https://img.shields.io/badge/LLM%20Solutions%20Development-0B5345?style=for-the-badge&amp;logo=openai&amp;logoColor=white">
+                                        <img src="https://img.shields.io/badge/Experienced%20with%20LLMs%20APIs%20(GPT--4%2B%2C%20Claude--2%2C%20Llama--2)-581845?style=for-the-badge&amp;logo=openai&amp;logoColor=white">
+                                        <img src="https://img.shields.io/badge/Research%20in%20Generative%20AI-4B0082?style=for-the-badge&amp;logo=openai&amp;logoColor=white">
+                                <br>
+		    </td>
+	    </tr>
 <!-- <tr>
                                     <td>IOT & Robotics</td>
                                     <td><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
@@ -118,7 +142,7 @@ You can click the Preview link to take a look at your changes.
 <br></td>
 </tr> -->
 	     <tr>
-                                    <td><strong>DevOps</strong></td>
+                                    <td>DevOps</td>
                                     <td><strong><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white" />
 <img src="https://img.shields.io/badge/CI/CD-953DAC?style=for-the-badge&logo=CircleCI&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white" />
@@ -138,7 +162,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=Microsoft%20PowerPoint&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
+<!-- <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  -->
 
 <br></td>
         </tr>
