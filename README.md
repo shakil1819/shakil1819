@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=LaTeX&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=C%20Sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=Bash&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 </td>
       </tr>
