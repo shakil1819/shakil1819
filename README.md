@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 </td>
       </tr>
-			<tr>
+<!-- 			<tr>
                     <td>Frontend</td>
                                     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <br></td>
-      </tr>
+      </tr> -->
 			<tr>
                                     <td>Backend</td>
                                     <td><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
