@@ -15,6 +15,16 @@ You can click the Preview link to take a look at your changes.
     </a>
   </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/shakil1819/credentials/42533d00d5aaa668" target="_blank">
+    <img src="https://shakil-mosharrof-xcadet-bcc.netlify.app/assets/images/certs/rsz_ai102.png" alt="Microsoft Certified: AI Engineer Associate" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/shakil1819/32117A3762604F06" target="_blank">
+    <img src="https://shakil-mosharrof-xcadet-bcc.netlify.app/assets/images/certs/rsz_dp100.png" alt="Microsoft Certified: Azure Data Scientist Associate" />
+  </a>
+</p>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
   <h2>🌐 My Personal Website / Additional links:</h2>
   <br/>
