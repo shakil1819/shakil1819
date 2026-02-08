@@ -29,6 +29,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.credly.com/badges/3e9aa433-753e-4cc0-a3d2-089546fe6ab8/public_url" target="_blank">
     <img src="https://shakil-mosharrof-xcadet-bcc.netlify.app/assets/images/certs/rsz_nca-aiio.png" alt="Microsoft Certified: AI Engineer Associate" />
   </a>
+  <a href="https://www.credly.com/badges/848401d5-c56b-42f9-9ebe-6872e513835b/public_url" target="_blank">
+    <img src="https://shakil-mosharrof-xcadet-bcc.netlify.app/assets/images/certs/rsz_gcp_pca.png" alt="Google Certified : Professional Cloud Architect" />
+  </a>
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
