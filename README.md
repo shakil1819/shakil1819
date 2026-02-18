@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
     <!-- 
       target="_blank" does not work for GitHub's README.md 
     -->
-    <a href="https://shakil-mosharrof-xcadet-bcc.netlify.app/"><img src="https://img.shields.io/badge/Personal Site-02569B?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://shakil-xbcc.netlify.app/"><img src="https://img.shields.io/badge/Personal Site-02569B?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://stackoverflow.com/users/12626071/shakil1819"><img src="https://img.shields.io/badge/Stackoverflow-F15B2A?style=for-the-badge&logo=Stackoverflow&logoColor=white" /></a>
     <a href="https://tryhackme.com/p/leos"><img src="https://img.shields.io/badge/tryhackme-FA5C5C?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/shakil-mosharrof/"><img src="https://img.shields.io/badge/Linkedin-FFDD00?style=for-the-badge&logo=Linkedin&logoColor=black" /></a> 
