@@ -20,6 +20,12 @@ You can click the Preview link to take a look at your changes.
   <a href="https://learn.microsoft.com/en-us/users/shakil1819/credentials/42533d00d5aaa668" target="_blank">
     <img src="https://shakil-mosharrof-xcadet-bcc.netlify.app/assets/images/certs/rsz_ai102.png" alt="Microsoft Certified: AI Engineer Associate" />
   </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/shakil1819/F401B4A308DB5231?sharingId=7E44C1620B218210" target="_blank">
+    <img src="https://shakil-xbcc.netlify.app/assets/microsoft-ai300-DPJeYlo5.png" alt="Microsoft Certified: Machine Learning Operations Engineer Associate" width="200" height="200" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/shakil1819/1D6514EB5D3C375F" target="_blank">
+    <img src="https://shakil-xbcc.netlify.app/assets/microsoft-dp750-BvqkG84m.png" alt="Microsoft Certified: Azure Databricks Data Engineer Associate" width="200" height="200" />
+  </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/shakil1819/32117A3762604F06" target="_blank">
     <img src="https://shakil-mosharrof-xcadet-bcc.netlify.app/assets/images/certs/rsz_dp100.png" alt="Microsoft Certified: Azure Data Scientist Associate" />
   </a>
